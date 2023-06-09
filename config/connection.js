@@ -1,4 +1,4 @@
-const { connect, connection } = require('mongoose');
+const { connect } = require('mongoose');
 // module.exports = connection;
 
 // Establishing the database connection
